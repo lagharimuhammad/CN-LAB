@@ -1,0 +1,48 @@
+Student ID: 25K-2002
+Subject 1: Credit Hours: 3, Marks: 75, Grade: B, GPA: 3.00
+Subject 2: Credit Hours: 3, Marks: 64, Grade: C, GPA: 2.00
+Subject 3: Credit Hours: 2, Marks: 55, Grade: D+, GPA: 1.33
+Subject 4: Credit Hours: 3, Marks: 91, Grade: A+, GPA: 4.00
+Total Credit Hours: 11
+Overall CGPA: 2.70
+------------------------------------------------------------
+Student ID: 25K-1001
+Subject 1: Credit Hours: 3, Marks: 88, Grade: A, GPA: 4.00
+Subject 2: Credit Hours: 3, Marks: 79, Grade: B+, GPA: 3.33
+Subject 3: Credit Hours: 4, Marks: 92, Grade: A+, GPA: 4.00
+Total Credit Hours: 10
+Overall CGPA: 3.80
+------------------------------------------------------------
+Student ID: 25K-3003
+Subject 1: Credit Hours: 3, Marks: 45, Grade: F, GPA: 0.00
+Subject 2: Credit Hours: 3, Marks: 52, Grade: D, GPA: 1.00
+Total Credit Hours: 6
+Overall CGPA: 0.50
+------------------------------------------------------------
+Student ID: 25K-1001
+Subject 1: Credit Hours: 3, Marks: 79, Grade: B+, GPA: 3.33
+Subject 2: Credit Hours: 3, Marks: 81, Grade: B+, GPA: 3.33
+Subject 3: Credit Hours: 3, Marks: 67, Grade: C+, GPA: 2.33
+Total Credit Hours: 9
+Overall CGPA: 3.00
+------------------------------------------------------------
+Student ID: 24K-0006
+Subject 1: Credit Hours: 3, Marks: 88, Grade: A, GPA: 4.00
+Subject 2: Credit Hours: 2, Marks: 86, Grade: A, GPA: 4.00
+Subject 3: Credit Hours: 3, Marks: 67, Grade: C+, GPA: 2.33
+Subject 4: Credit Hours: 3, Marks: 58, Grade: C-, GPA: 1.67
+Total Credit Hours: 11
+Overall CGPA: 2.91
+------------------------------------------------------------
+Student ID: 24K-0021
+Subject 1: Credit Hours: 3, Marks: 80, Grade: B+, GPA: 3.33
+Subject 2: Credit Hours: 3, Marks: 99, Grade: A+, GPA: 4.00
+Total Credit Hours: 6
+Overall CGPA: 3.67
+------------------------------------------------------------
+Student ID: 24K-6190
+Subject 1: Credit Hours: 3, Marks: 89, Grade: A, GPA: 4.00
+Subject 2: Credit Hours: 3, Marks: 70, Grade: B-, GPA: 2.67
+Total Credit Hours: 6
+Overall CGPA: 3.33
+------------------------------------------------------------
